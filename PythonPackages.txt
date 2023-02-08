@@ -1,0 +1,9 @@
+selenium
+pytest
+pytest-ordering
+allure-pytest
+behave
+allure-behave
+pytest-xdist
+webdriver-manager
+
