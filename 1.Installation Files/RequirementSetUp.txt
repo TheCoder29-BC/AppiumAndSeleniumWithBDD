@@ -6,3 +6,11 @@ behave
 allure-behave
 webdriver-manager
 
+<<<<<<< HEAD
+android-studio-2021.3.1.17-windows.exe
+Appium-Server-GUI-windows-1.22.3-4.exe
+Appium-Inspector-windows-2022.11.1.exe
+jdk-19_windows-x64_bin.exe
+pycharm-community-2022.3.1.exe
+=======
+>>>>>>> parent of 18a0515 (100+ Files)
