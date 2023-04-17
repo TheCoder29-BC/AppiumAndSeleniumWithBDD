@@ -1,0 +1,7 @@
+Execute
+
+-behave loginScreen.feature --no-capture
+
+with allure-Report
+
+- behave -f allure_behave.formatter:AllureFormatter -o "Allure_report" loginScreen.feature
